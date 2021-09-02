@@ -5,6 +5,10 @@ sequences, taken from a self-driving car. Our task will be to design an
 algorithm to detect lanes on the road, as well as estimate the road curvature
 to predict car turns. For detailed report on the project checkout [this link](https://github.com/savnani5/Lane_Detection/blob/main/Documentation/ENPM673-%20PROJ2.pdf).
 
+![Dataset1](git_gifs/vid1.gif)    
+
+![Dataset2](git_gifs/vid2.gif)
+
 ## Input
 
 [Input Data](https://drive.google.com/drive/folders/1r7ys7pS1fXXc7j13srBmU1pmoKM9wfr7?usp=sharing)
