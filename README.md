@@ -7,11 +7,11 @@ to predict car turns. For detailed report on the project checkout [this link](ht
 
 ## Input
 
-![Input Data](https://drive.google.com/drive/folders/1r7ys7pS1fXXc7j13srBmU1pmoKM9wfr7?usp=sharing)
+[Input Data](https://drive.google.com/drive/folders/1r7ys7pS1fXXc7j13srBmU1pmoKM9wfr7?usp=sharing)
 
 ## Output
 
-![Output Data](https://drive.google.com/drive/folders/1WzawWiSORhTyJsOCJmoqT7XxZU8T_e9s?usp=sharing)
+[Output Data](https://drive.google.com/drive/folders/1WzawWiSORhTyJsOCJmoqT7XxZU8T_e9s?usp=sharing)
 
 ## Pipeline
 
@@ -31,10 +31,12 @@ to predict car turns. For detailed report on the project checkout [this link](ht
 ## How to Run the code
 1) Change the directory for the first dataset in the **data_set1.py** file.
 2) Run the below command to run the lane detection system on dataset1:
+
     ```python data_set1.py```
     
 3) Change the directory for the second dataset in the **data_set2.py** file.\
 4) Run the below command to run the lane detection system on dataset2:
+    
     ```python data_set2.py```
 
 ## References
