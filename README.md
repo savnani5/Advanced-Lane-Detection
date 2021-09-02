@@ -3,7 +3,7 @@ In this project we aim to do simple Lane Detection to mimic Lane Departure
 Warning systems used in Self Driving Cars. We are provided with two video
 sequences, taken from a self-driving car. Our task will be to design an
 algorithm to detect lanes on the road, as well as estimate the road curvature
-to predict car turns. For detailed report on the project checkout [this link]().
+to predict car turns. For detailed report on the project checkout [this link](https://github.com/savnani5/Lane_Detection/blob/main/Documentation/ENPM673-%20PROJ2.pdf).
 
 ## Input
 
