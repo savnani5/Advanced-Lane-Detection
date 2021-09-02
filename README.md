@@ -38,7 +38,9 @@ the lanes.
 
 ● As a general rule we will apply probabilistic hough transform to find lines
 in the canny edge detection result with parameters (rho=4, theta=np.pi/180,
-threshold=30, minLineLength=20, maxLineGap=180).● As, we know hough lines algorithm outputs multiple lines for an edge, so
+threshold=30, minLineLength=20, maxLineGap=180).
+
+● As, we know hough lines algorithm outputs multiple lines for an edge, so
 we have select the most prominent lines from them. We will use the line
 selection function to choose the 2 most prominent lane lines.
 
