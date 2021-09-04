@@ -4,7 +4,7 @@ Warning systems used in Self Driving Cars. We are provided with two video
 sequences, taken from a self-driving car. Our task will be to design an
 algorithm to detect lanes on the road, as well as estimate the road curvature
 to predict car turns. For detailed report on the project checkout [this link](https://github.com/savnani5/Lane_Detection/blob/main/Documentation/ENPM673-%20PROJ2.pdf).
-
+---
 ## Pipeline
 
 ### Dataset1
@@ -111,7 +111,7 @@ smoothening done by moving the average filter.
 
 ![dataset2](git_gifs/img4.png)
 
-
+---
 ## Input
 
 [Input Data](https://drive.google.com/drive/folders/1r7ys7pS1fXXc7j13srBmU1pmoKM9wfr7?usp=sharing)
@@ -120,7 +120,7 @@ smoothening done by moving the average filter.
 
 [Output Data](https://drive.google.com/drive/folders/1WzawWiSORhTyJsOCJmoqT7XxZU8T_e9s?usp=sharing)
 
-
+---
 ## How to Run the code
 1) Change the directory for the first dataset in the **data_set1.py** file.
 2) Run the below command to run the lane detection system on dataset1:
@@ -131,7 +131,7 @@ smoothening done by moving the average filter.
 4) Run the below command to run the lane detection system on dataset2:
     
     ```python data_set2.py```
-
+---
 ## References
 1) https://medium.com/@SunEdition/lane-detection-and-turn-prediction-algorithm-for-autonomous-vehicles-6423f77dc841
 2) https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_histograms/py_table_of_contents_histograms/py_table_of_contents_histograms.html
